@@ -46,7 +46,7 @@ It usually takes around 20 seconds to fully scan your network, and then displays
 ### Installation
 
 1. Clone the repo
-   >git clone https://github.com/add when i upload.git
+   >git clone https://github.com/Hopeless0001/NetworkScanner
 2. Cd into the folder
    >cd NetworkScanner
 3. Install pip packages

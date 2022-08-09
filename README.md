@@ -42,6 +42,8 @@ It usually takes around 20 seconds to fully scan your network, and then displays
   >sudo apt install python3.10
 * pip
   >sudo apt install python3-pip
+* nmap
+  >sudp apt install nmap
 
 ### Installation
 
